@@ -1,0 +1,50 @@
+1-bathtub bathtub_0154:
+Top 1: bathtub( 0.97)
+Top 2: chair( 0.02)
+Top 3: bed( 0.01)
+
+2-bed bed_0541:
+Top 1: bed( 0.98)
+Top 2: sofa( 0.02)
+Top 3: bathtub( 0.00)
+
+3-chair chair_0967:
+Top 1: chair( 0.99)
+Top 2: toilet( 0.01)
+Top 3: bed( 0.00)
+
+4-desk desk_0278:
+Top 1: sofa( 0.44)
+Top 2: desk( 0.37)
+Top 3: dresser( 0.11)
+
+5-dresser dresser_0247:
+Top 1: dresser( 0.94)
+Top 2: night_stand( 0.05)
+Top 3: desk( 0.01)
+
+6-monitor monitor_0467:
+Top 1: monitor( 1.00)
+Top 2: sofa( 0.00)
+Top 3: dresser( 0.00)
+
+7-night_stand night_stand_0234:
+Top 1: sofa( 0.38)
+Top 2: dresser( 0.26)
+Top 3: bed( 0.13)
+
+8-sofa sofa_0714:
+Top 1: sofa( 1.00)
+Top 2: bed( 0.00)
+Top 3: desk( 0.00)
+
+9-table table_0459:
+Top 1: table( 0.69)
+Top 2: desk( 0.31)
+Top 3: bed( 0.00)
+
+10-toilet toilet_0408:
+Top 1: toilet( 1.00)
+Top 2: chair( 0.00)
+Top 3: bed( 0.00)
+
