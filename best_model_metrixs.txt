@@ -1,0 +1,27 @@
+Best Model Mtrics:
+Train Loss: 0.4286
+Train Accuracy:  85.150376%
+Evaluarion Loss:  0.295010
+Evaluation Accuracy:  90.488110%
+Per-Class Accuracy (Train):
+bathtub     :77.01%
+bed         :88.84%
+chair       :91.78%
+desk        :67.55%
+dresser     :76.54%
+monitor     :92.29%
+night_stand :60.00%
+sofa        :91.82%
+table       :82.12%
+toilet      :74.16%
+Per-Class Accuracy (Evaluarion):
+bathtub     :84.21%
+bed         :90.59%
+chair       :96.17%
+desk        :69.39%
+dresser     :89.47%
+monitor     :93.42%
+night_stand :37.50%
+sofa        :98.59%
+table       :96.67%
+toilet      :94.81%
