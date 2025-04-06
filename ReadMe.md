@@ -37,15 +37,15 @@ Automatic best model checkpointing based on validation accuracy
 # File Structure
 
 .
-├── model.py               # Model architecture with PointNetAttn
-├── dataloader.py         # DataLoader with .off parser, sampler, augmentation
-├── utils.py              # Helper functions like get_knn and index_points
-├── train.py              # Training and evaluation scripts
-├── main.py               # Inference and visualization export (for Meshlab)
-├── sample_pc.py          # Mesh sampling for visualization
-├── run.sh                # Bash script for training and testing
-├── checkpoints/          # Stores best_model.pth
-├── pre_submit_file/      # Generated visualization and result files
+├── model.py               # Model architecture with PointNetAttn  
+├── dataloader.py         # DataLoader with .off parser, sampler, augmentation  
+├── utils.py              # Helper functions like get_knn and index_points  
+├── train.py              # Training and evaluation scripts  
+├── main.py               # Inference and visualization export (for Meshlab)  
+├── sample_pc.py          # Mesh sampling for visualization  
+├── run.sh                # Bash script for training and testing  
+├── checkpoints/          # Stores best_model.pth  
+├── pre_submit_file/      # Generated visualization and result files  
 
 # Requirements
 
