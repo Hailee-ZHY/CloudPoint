@@ -27,6 +27,9 @@ This model is designed based on traditional PointNet architecture, my creative p
 ```
 pip install -r requirements.txt
 ```
+# Pretrained Model File
+Feel free to download the pretranied file from my github link:  
+https://github.com/Hailee-ZHY/best_model_result.pth
 
 # Run code 
 1. Install dataset at first, and save it to the current dictionary (save level as model.py, and do NOT change the name of folder)  
@@ -34,3 +37,5 @@ pip install -r requirements.txt
 ``` 
     bash run.sh
 ```
+
+**If there is anything you have question, please let me know via hanyi_zhang_2@sfu.ca, thanks for reviewing!** 
