@@ -20,7 +20,7 @@ This model is designed based on traditional PointNet architecture, my creative p
 ├── sample_pc.py          # Mesh sampling function for visualization  
 ├── run.sh                # Bash script for training and testing  
 ├── checkpoints/          # Stores best_model.pth  
-├── pre_submit_file/      # Generated visualization and result files
+├── pre_submit_file/      # Generated visualization and result files (only when you run the main.py, it will apear)
 ```  
 
 # Install requirements
@@ -29,8 +29,8 @@ pip install -r requirements.txt
 ```
 
 # Run code 
-Once dependencies are installed, run the following script in your terminal:  
+1. Install dataset at first, and save it to the current dictionary (save level as model.py, and do NOT change the name of folder)  
+2. Once dependencies are installed, run the following script in your terminal:  
 ``` 
-bash run.sh
+    bash run.sh
 ```
-
