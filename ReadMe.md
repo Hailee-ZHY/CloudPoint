@@ -37,5 +37,3 @@ https://github.com/Hailee-ZHY/best_model_result.pth
 ``` 
     bash run.sh
 ```
-
-**If there is anything you have question, please let me know via hanyi_zhang_2@sfu.ca, thanks for reviewing!** 
